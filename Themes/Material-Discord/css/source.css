@@ -203,7 +203,7 @@
  *
  */
 * {
-  font-family: var(--app-font), sans-serif !important;
+  font-family: var(--app-font), comic-sans-ms !important;
 }
 
 ::selection {
